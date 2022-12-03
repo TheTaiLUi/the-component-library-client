@@ -1,0 +1,6 @@
+.text_area_box {
+  min-height: calc(100vh - 150px);
+}
+.custom_css_w {
+  width: calc(100vw - 370px);
+}
